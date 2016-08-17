@@ -1,0 +1,27 @@
+#
+# svn_ext_val.txt
+# Created Thu Apr 24 14:27:15 AKDT 2014
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under editors/
+#
+# emacs/     GNU Emacs editor
+#
+# jEdit/     jEdit - Programmer's Text Editor
+#            Spotted sweet reference to this editor whilst surfing
+#            DbVisualizer comments.
+#            http://www.jedit.org/
+#
+# textpad/   TextPad
+#            The Test Editor for Windows
+#            https://www.textpad.com/
+#
+# uex/       UltraEdit for Linux
+#
+../../editors/emacs/emacs       ./emacs
+../../editors/jEdit/jEdit       ./jEdit
+../../editors/textpad/textpad   ./textpad
+../../editors/uex/uex           ./uex
