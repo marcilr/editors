@@ -5,9 +5,9 @@ Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
-editors.txt
+editors.txt  
   Editors for development
 
-svn_ext_val.txt
+svn_ext_val.txt  
   List of repo hierarchical directories to checkout under editors/
 
