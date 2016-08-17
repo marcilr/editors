@@ -1,5 +1,5 @@
-README.md
-Created Tue Aug 16 16:20:50 AKDT 2016
+README.md  
+Created Tue Aug 16 16:20:50 AKDT 2016  
 Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
 
 
