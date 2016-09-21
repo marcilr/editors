@@ -1,9 +1,9 @@
-editors.txt
+text-editors.txt
 Created Wed Apr 16 13:52:34 AKDT 2014
 Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-Editors for development
+Text editors for development
 
 
 emacs - GNU Emacs editor (metapackage)
