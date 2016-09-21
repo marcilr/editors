@@ -1,0 +1,26 @@
+links.txt
+Created Wed Sep 21 10:15:00 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Text editor related links
+
+
+Links
+=====
+Notepad++ is a free (as in "free speech" and also as in "free beer") source
+code editor and Notepad replacement that supports several languages.  Running
+in the MS Windows environment, its use is governed by GPL License.
+This is the best text editor for Windows.
+https://notepad-plus-plus.org/
+
+Sublime Text: The text editor you'll fall in love with
+Sublime Text is a sophisticated text editor for code, markup and prose.
+You'll love the slick user interface, extraordinary features and amazing
+performance.
+https://www.sublimetext.com/
+
+Text editor
+Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Text_editor
+
