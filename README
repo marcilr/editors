@@ -1,0 +1,17 @@
+README
+Created Wed Dec  7 15:43:02 AKST 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+editors.txt
+  Editors
+
+manifest
+  Manifest for resync application
+
+sublime/
+  Sublime Text is a sophisticated text editor for code, markup and prose.
+  You'll love the slick user interface, extraordinary features and amazing
+  performance.
