@@ -28,4 +28,3 @@ notepad++
 sublime - Whitham Reeve <wreeve@gci.com> at GCI NIT, 2017
 
 webstorm - Trent Matthias <tmatthias@gci.com> at GCI NIT, 2017
-
