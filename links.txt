@@ -24,3 +24,8 @@ Text editor
 Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Text_editor
 
+Why Kakoune — The quest for a better code editor
+Maxime Coste mawww@kakoune.org
+Reads good but goal was to be better than vim.
+Not certain I'm a vim fan.
+http://kakoune.org/why-kakoune/why-kakoune.html
