@@ -24,3 +24,8 @@ notepad++
   carbon dioxide emissions.  When using less CPU power, the PC can throttle
   down and reduce power consumption, resulting in a greener environment.
   http://notepad-plus-plus.org/
+
+sublime - Whitham Reeve <wreeve@gci.com> at GCI NIT, 2017
+
+webstorm - Trent Matthias <tmatthias@gci.com> at GCI NIT, 2017
+
