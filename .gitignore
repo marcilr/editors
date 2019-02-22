@@ -1,0 +1,9 @@
+#.gitignore
+# Created Fri Feb 22 12:57:20 AKST 2019
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore.
+#
+.gitignore
+emacs/
+sublime/
